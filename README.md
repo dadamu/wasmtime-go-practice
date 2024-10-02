@@ -3,6 +3,7 @@
 ## Quick start
 
 ```
+go get
 make start-docker-test
 make build-wasm
 go run main.go
